@@ -139,7 +139,7 @@
             <mxPoint x="590" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oqUq-A6yQlzPYhAFowX8-11" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="oqUq-A6yQlzPYhAFowX8-11" value="Product&lt;div&gt;Category&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="275" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oqUq-A6yQlzPYhAFowX8-12" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
@@ -156,6 +156,15 @@
             <mxPoint x="640" y="260" as="sourcePoint" />
             <mxPoint x="800" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oqUq-A6yQlzPYhAFowX8-19" value="1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oqUq-A6yQlzPYhAFowX8-20" value="M" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="275" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oqUq-A6yQlzPYhAFowX8-21" value="M" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="290" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
