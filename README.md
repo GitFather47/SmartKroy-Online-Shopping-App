@@ -1,4 +1,4 @@
-# SmartKroy Management System
+# SmartKroy Online Shopping System
 
 SmartKroy is a modern Windows Forms (.NET 8, C# 12) application for managing products, categories, suppliers, and administrative records in a retail or inventory-based business. It features a user-friendly interface, robust CRUD operations, and SQL Server integration.
 
